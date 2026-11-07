@@ -1,0 +1,8 @@
+{
+  "name": "lesson-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Evidence-led 45-minute lesson research and authoring workspace",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node server.js" }
+}
